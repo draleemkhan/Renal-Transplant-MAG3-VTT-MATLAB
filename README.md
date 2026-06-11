@@ -1,0 +1,2 @@
+# Renal-Transplant-MAG3-VTT-MATLAB
+This repository provides a MATLAB workflow for quantifying vascular transit time (VTT) in renal transplant recipients using dynamic Tc-99m MAG3 renography.  The pipeline extracts an image-derived vascular input function and transplant kidney time-activity curve (TAC), then estimates vascular transit time using:  1. Mean VTT (Centroid / Mean Arrival Time Method) 2. Peak-Delay VTT
