@@ -10,7 +10,11 @@ The pipeline extracts an image-derived vascular input function and transplant ki
 2. Peak-Delay VTT
 
 The workflow automatically saves figures and exports numerical results in CSV and MAT formats.
+## Example Output
 
+<img src="outputs/06_first_pass_VTT.png" width="900">
+
+<img src="outputs/07_roi_summary.png" width="900">
 ---
 
 ## Main Outputs
